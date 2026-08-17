@@ -1,10 +1,108 @@
 <!doctype html>
-<html lang="de">
+<html lang="de-CH">
 <head>
   <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta name="robots" content="noindex, nofollow, noarchive">
-  <title></title>
+  <title>Medien zum Experiment „Löslichkeit von CO₂ in Wasser“</title>
+  <style>
+    :root {
+      color-scheme: light;
+      --ink: #17324d;
+      --muted: #52687a;
+      --line: #d8e2ea;
+      --paper: #ffffff;
+      --wash: #eef7fb;
+      --accent: #087e8b;
+      --accent-dark: #075e68;
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+    }
+    * { box-sizing: border-box; }
+    body { margin: 0; color: var(--ink); background: var(--wash); line-height: 1.55; }
+    header, main, footer { width: min(1120px, calc(100% - 2rem)); margin-inline: auto; }
+    header { padding: 3.5rem 0 2rem; }
+    h1 { margin: 0 0 .5rem; font-size: clamp(2rem, 5vw, 3.5rem); line-height: 1.08; }
+    h2 { margin-top: 2.5rem; }
+    p { max-width: 78ch; }
+    .lead { color: var(--muted); font-size: 1.1rem; }
+    .notice { padding: 1rem 1.2rem; background: #fff8db; border-left: .35rem solid #e1a900; border-radius: .35rem; }
+    .grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.25rem; }
+    article { display: flex; flex-direction: column; overflow: hidden; background: var(--paper); border: 1px solid var(--line); border-radius: .8rem; box-shadow: 0 .25rem 1rem #17324d12; }
+    article img { width: 100%; height: 250px; object-fit: contain; background: #f8fafc; border-bottom: 1px solid var(--line); }
+    .body { display: flex; flex: 1; flex-direction: column; padding: 1rem; }
+    .body h3 { margin: 0 0 .4rem; }
+    .body p { margin: .35rem 0; }
+    .kind { color: var(--accent-dark); font-weight: 700; font-size: .82rem; letter-spacing: .04em; text-transform: uppercase; }
+    .meta { color: var(--muted); font-size: .9rem; }
+    .actions { display: flex; flex-wrap: wrap; gap: .5rem; margin-top: auto; padding-top: 1rem; }
+    a, button { color: var(--accent-dark); }
+    button, .button { appearance: none; padding: .55rem .75rem; border: 1px solid var(--accent); border-radius: .4rem; background: white; cursor: pointer; font: inherit; text-decoration: none; }
+    button:hover, .button:hover { color: white; background: var(--accent); }
+    code { overflow-wrap: anywhere; }
+    footer { padding: 2rem 0 3rem; color: var(--muted); }
+  </style>
 </head>
 <body>
+  <header>
+    <p class="kind">Fobizz-Bot · CO₂-Versuch</p>
+    <h1>Löslichkeit von CO₂ in Wasser</h1>
+    <p class="lead">Bilder und Animationen für Materialcheck, Versuchsdurchführung, pH-Messung und Erklärung mit dem Teilchenmodell. Über die Schaltflächen lassen sich die veröffentlichten Bot-URLs direkt kopieren.</p>
+    <p class="notice"><strong>Sicherheit:</strong> Die Animation zur Arretierung darf nur gezeigt und verwendet werden, wenn eine Lehrperson diese konkrete Anordnung freigegeben hat. Der Nagel dient ausschliesslich der Arretierung und wird nicht als Nadel an der Spritze verwendet.</p>
+  </header>
+
+  <main>
+    <h2>Aufbau, Durchführung und Messung</h2>
+    <div class="grid">
+      <article>
+        <img src="medien/Spritze-mit-Stopfen-small.png" alt="Beschriftete 60-ml-Kunststoffspritze mit blauem Blindstopfen; markiert sind Stopfen, Zylinder und Stempel" loading="lazy">
+        <div class="body"><span class="kind">Material</span><h3>Kunststoffspritze mit Blindstopfen</h3><p>Für den Materialcheck und zur Einführung der Bestandteile Stopfen, Zylinder und Stempel.</p><p class="meta">Urheber und Lizenz noch nicht dokumentiert</p><div class="actions"><button data-copy="medien/Spritze-mit-Stopfen-small.png">Bot-URL kopieren</button><a class="button" href="medien/Spritze-mit-Stopfen-small.png">Öffnen</a><a class="button" href="QUELLEN-UND-LIZENZEN.md">Rechte</a></div></div>
+      </article>
+      <article>
+        <img src="medien/Wasser-mit-Kohlensäure-small.png" alt="Durchsichtige verschlossene Flasche mit kohlesäurehaltigem Mineralwasser und sichtbaren Gasblasen" loading="lazy">
+        <div class="body"><span class="kind">Material</span><h3>Kohlesäurehaltiges Mineralwasser</h3><p>Unterstützt den Materialcheck und die Unterscheidung von Leitungswasser und kohlesäurehaltigem Mineralwasser.</p><p class="meta">Urheber und Lizenz noch nicht dokumentiert</p><div class="actions"><button data-copy="medien/Wasser-mit-Kohlensäure-small.png">Bot-URL kopieren</button><a class="button" href="medien/Wasser-mit-Kohlensäure-small.png">Öffnen</a><a class="button" href="QUELLEN-UND-LIZENZEN.md">Rechte</a></div></div>
+      </article>
+      <article>
+        <img src="medien/Spritze-arretieren.gif" alt="Hände führen einen Nagel durch die dafür vorgesehene Arretierung einer mit Wasser gefüllten Kunststoffspritze" loading="lazy">
+        <div class="body"><span class="kind">Optionale Anleitung</span><h3>Spritze arretieren</h3><p>Demonstriert die optionale Arretierung. Nur nach Freigabe und Anweisung der Lehrperson einsetzen.</p><p class="meta">Smartfeld · CC BY 4.0</p><div class="actions"><button data-copy="medien/Spritze-arretieren.gif">Bot-URL kopieren</button><a class="button" href="medien/Spritze-arretieren.gif">Öffnen</a><a class="button" href="https://creativecommons.org/licenses/by/4.0/">Lizenz</a></div></div>
+      </article>
+      <article>
+        <img src="medien/Indikatorstaebchen-small.png" alt="Zwei Petrischalen mit Wasserproben und Indikatorstäbchen; ein Messfeld erscheint blau und das andere gelb" loading="lazy">
+        <div class="body"><span class="kind">pH-Messung</span><h3>Indikatorstäbchen</h3><p>Zeigt den Aufbau für den pH-Vergleich von Leitungswasser und kohlesäurehaltigem Mineralwasser.</p><p class="meta">Smartfeld · CC BY 4.0</p><div class="actions"><button data-copy="medien/Indikatorstaebchen-small.png">Bot-URL kopieren</button><a class="button" href="medien/Indikatorstaebchen-small.png">Öffnen</a><a class="button" href="https://creativecommons.org/licenses/by/4.0/">Lizenz</a></div></div>
+      </article>
+    </div>
+
+    <h2>Teilchenmodelle</h2>
+    <p class="notice"><strong>Modellhinweis:</strong> Die blauen Kugeln sind eine schematische Darstellung von Teilchen. Farbe, Grösse und Abstände sind nicht massstabsgetreu.</p>
+    <div class="grid">
+      <article>
+        <img src="medien/Gif_-AtomosGas_02.gif" alt="Blau dargestellte Gasteilchen bewegen sich mit grossen Abständen ungeordnet in einem Behälter" loading="lazy">
+        <div class="body"><span class="kind">Animiertes Modell</span><h3>Gas</h3><p>Veranschaulicht grosse Teilchenabstände und unterstützt die Erklärung der Komprimierbarkeit von Luft.</p><p class="meta">Julio Miguel A Enriquez und Monica Muñoz · Lizenz noch nicht dokumentiert</p><div class="actions"><button data-copy="medien/Gif_-AtomosGas_02.gif">Bot-URL kopieren</button><a class="button" href="medien/Gif_-AtomosGas_02.gif">Öffnen</a><a class="button" href="QUELLEN-UND-LIZENZEN.md">Rechte</a></div></div>
+      </article>
+      <article>
+        <img src="medien/Gif_-AtomosLiquid_03.gif" alt="Blau dargestellte Flüssigkeitsteilchen liegen dicht beieinander und bewegen sich im unteren Bereich eines Behälters" loading="lazy">
+        <div class="body"><span class="kind">Animiertes Modell</span><h3>Flüssigkeit</h3><p>Veranschaulicht kleine Teilchenabstände und unterstützt die Erklärung, warum Wasser nahezu nicht komprimierbar ist.</p><p class="meta">Julio Miguel A Enriquez und Monica Muñoz · Lizenz noch nicht dokumentiert</p><div class="actions"><button data-copy="medien/Gif_-AtomosLiquid_03.gif">Bot-URL kopieren</button><a class="button" href="medien/Gif_-AtomosLiquid_03.gif">Öffnen</a><a class="button" href="QUELLEN-UND-LIZENZEN.md">Rechte</a></div></div>
+      </article>
+      <article>
+        <img src="medien/Gif_-AtomosSolido_01.gif" alt="Blau dargestellte Feststoffteilchen sind dicht und regelmässig in einem Gitter angeordnet" loading="lazy">
+        <div class="body"><span class="kind">Animiertes Modell</span><h3>Feststoff</h3><p>Optionale Vertiefung zum Vergleich der drei Aggregatzustände; für die Kernauswertung nicht erforderlich.</p><p class="meta">Julio Miguel A Enriquez und Monica Muñoz · Lizenz noch nicht dokumentiert</p><div class="actions"><button data-copy="medien/Gif_-AtomosSolido_01.gif">Bot-URL kopieren</button><a class="button" href="medien/Gif_-AtomosSolido_01.gif">Öffnen</a><a class="button" href="QUELLEN-UND-LIZENZEN.md">Rechte</a></div></div>
+      </article>
+    </div>
+
+    <h2>Für den Bot</h2>
+    <p>Die vollständigen Angaben stehen auch maschinenlesbar in <a href="medien.json"><code>medien.json</code></a>. Der bekannte Stand zu Urhebern und Lizenzen befindet sich in <a href="QUELLEN-UND-LIZENZEN.md"><code>QUELLEN-UND-LIZENZEN.md</code></a>.</p>
+  </main>
+
+  <footer>Medienkatalog für das Experiment „Löslichkeit von CO₂ in Wasser“. Offene Rechteangaben müssen vor einer externen Weiterverwendung geklärt werden.</footer>
+  <script>
+    document.querySelectorAll('[data-copy]').forEach((button) => {
+      button.addEventListener('click', async () => {
+        const url = new URL(button.dataset.copy, document.baseURI).href;
+        await navigator.clipboard.writeText(url);
+        const oldText = button.textContent;
+        button.textContent = 'URL kopiert';
+        setTimeout(() => { button.textContent = oldText; }, 1600);
+      });
+    });
+  </script>
 </body>
 </html>

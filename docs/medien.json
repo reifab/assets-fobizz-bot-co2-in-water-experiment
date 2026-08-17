@@ -1,0 +1,92 @@
+{
+  "experiment": "Löslichkeit von CO₂ in Wasser",
+  "sprache": "de-CH",
+  "hinweis": "Die Bilder und Animationen unterstützen den Materialcheck, die Versuchsdurchführung, die pH-Messung und die Erklärung mit dem Teilchenmodell. Das Arretieren mit einem Nagel darf nur in einer von der Lehrperson freigegebenen Anordnung gezeigt werden.",
+  "rechte_hinweis": "Urheber und Lizenzen sind für mehrere Projektmedien noch nicht vollständig dokumentiert. Details stehen in QUELLEN-UND-LIZENZEN.md.",
+  "medien": [
+    {
+      "id": "material-spritze-mit-stopfen",
+      "datei": "medien/Spritze-mit-Stopfen-small.png",
+      "titel": "Kunststoffspritze mit Blindstopfen",
+      "typ": "Beschriftetes Foto",
+      "alt": "Beschriftete 60-ml-Kunststoffspritze mit blauem Blindstopfen; markiert sind Stopfen, Zylinder und Stempel",
+      "bot_einsatz": "Materialcheck und Einführung der Bestandteile der Spritze.",
+      "urheber": "Nicht dokumentiert",
+      "lizenz": "Nicht dokumentiert",
+      "lizenz_url": null,
+      "quelle": "Projektbestand"
+    },
+    {
+      "id": "material-mineralwasser-kohlensaeure",
+      "datei": "medien/Wasser-mit-Kohlensäure-small.png",
+      "titel": "Kohlesäurehaltiges Mineralwasser",
+      "typ": "Foto",
+      "alt": "Durchsichtige verschlossene Flasche mit kohlesäurehaltigem Mineralwasser und sichtbaren Gasblasen",
+      "bot_einsatz": "Materialcheck und Unterscheidung von Leitungswasser und kohlesäurehaltigem Mineralwasser.",
+      "urheber": "Nicht dokumentiert",
+      "lizenz": "Nicht dokumentiert",
+      "lizenz_url": null,
+      "quelle": "Projektbestand"
+    },
+    {
+      "id": "anleitung-spritze-arretieren",
+      "datei": "medien/Spritze-arretieren.gif",
+      "titel": "Spritze optional arretieren",
+      "typ": "Animiertes GIF",
+      "alt": "Hände führen einen Nagel durch die dafür vorgesehene Arretierung einer mit Wasser gefüllten Kunststoffspritze",
+      "bot_einsatz": "Optionale Demonstration der Arretierung, ausschliesslich bei Freigabe und nach Anweisung der Lehrperson.",
+      "urheber": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+      "quelle": "Aus dem Projektvideo «Spritze arretieren_1080p.mp4» erstellt"
+    },
+    {
+      "id": "messung-indikatorstaebchen",
+      "datei": "medien/Indikatorstaebchen-small.png",
+      "titel": "pH-Messung mit Indikatorstäbchen",
+      "typ": "Foto",
+      "alt": "Zwei Petrischalen mit Wasserproben und Indikatorstäbchen; ein Messfeld erscheint blau und das andere gelb",
+      "bot_einsatz": "Aufbau und Beobachtung beim Vergleich von Leitungswasser und kohlesäurehaltigem Mineralwasser.",
+      "urheber": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/",
+      "quelle": "Technisch verkleinerte PNG-Fassung des Projektfotos «Indikatorstaebchen.jpg»"
+    },
+    {
+      "id": "modell-teilchen-gas",
+      "datei": "medien/Gif_-AtomosGas_02.gif",
+      "titel": "Teilchenmodell eines Gases",
+      "typ": "Animiertes GIF",
+      "alt": "Blau dargestellte Gasteilchen bewegen sich mit grossen Abständen ungeordnet in einem Behälter",
+      "bot_einsatz": "Erklärung der Komprimierbarkeit von Luft anhand grosser Teilchenabstände.",
+      "urheber": "Julio Miguel A Enriquez und Monica Muñoz",
+      "lizenz": "Nicht dokumentiert",
+      "lizenz_url": null,
+      "quelle": "Bisherige Angabe in README.md"
+    },
+    {
+      "id": "modell-teilchen-fluessigkeit",
+      "datei": "medien/Gif_-AtomosLiquid_03.gif",
+      "titel": "Teilchenmodell einer Flüssigkeit",
+      "typ": "Animiertes GIF",
+      "alt": "Blau dargestellte Flüssigkeitsteilchen liegen dicht beieinander und bewegen sich im unteren Bereich eines Behälters",
+      "bot_einsatz": "Erklärung, warum Wasser unter den Versuchsbedingungen nahezu nicht komprimierbar ist.",
+      "urheber": "Julio Miguel A Enriquez und Monica Muñoz",
+      "lizenz": "Nicht dokumentiert",
+      "lizenz_url": null,
+      "quelle": "Bisherige Angabe in README.md"
+    },
+    {
+      "id": "modell-teilchen-feststoff",
+      "datei": "medien/Gif_-AtomosSolido_01.gif",
+      "titel": "Teilchenmodell eines Feststoffs",
+      "typ": "Animiertes GIF",
+      "alt": "Blau dargestellte Feststoffteilchen sind dicht und regelmässig in einem Gitter angeordnet",
+      "bot_einsatz": "Optionale Vertiefung zum Vergleich der drei Aggregatzustände; nicht für die Kernauswertung erforderlich.",
+      "urheber": "Julio Miguel A Enriquez und Monica Muñoz",
+      "lizenz": "Nicht dokumentiert",
+      "lizenz_url": null,
+      "quelle": "Bisherige Angabe in README.md"
+    }
+  ]
+}
