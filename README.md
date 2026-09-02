@@ -1,6 +1,6 @@
 # Assets für den Fobizz-Bot „Löslichkeit von CO₂ in Wasser“
 
-Dieses Repository enthält Medien für einen Lernbot zum Experiment „Löslichkeit von CO₂ in Wasser“.
+Dieses Repository enthält Medien für einen Lernbot zum Experiment „Löslichkeit von CO₂ in Wasser“, einschliesslich weboptimierter Schritt-für-Schritt-Animationen für den Spritzenversuch.
 
 - `docs/index.html`: Medienkatalog für GitHub Pages mit kopierbaren Bot-URLs
 - `docs/medien/`: Bilder und animierte GIF-Dateien
@@ -17,6 +17,10 @@ Die Medien liegen unter `docs/medien/`. Veröffentlichte URLs haben deshalb dies
 https://reifab.github.io/assets-fobizz-bot-co2-in-water-experiment/medien/DATEINAME
 ```
 
+## Technische Aufbereitung
+
+Die neuen Bilder und animierten GIFs passen bei unverändertem Seitenverhältnis in einen Rahmen von maximal 300 × 200 Pixeln. Die aus Videos erstellten GIFs besitzen eine reduzierte Bildrate und vor dem Neustart eine kurze schwarze Pause.
+
 ## Quellen und Rechte
 
-Die Teilchenmodell-GIFs stammen gemäss bisheriger Projektangabe von Julio Miguel A Enriquez und Monica Muñoz. Eine konkrete Quelle und Lizenz ist im bisherigen Repository nicht dokumentiert. Auch für die übrigen Projektmedien fehlen teilweise eindeutige Urheber- und Lizenzangaben. Vor einer Weiterverwendung ausserhalb dieses Projekts müssen diese Angaben geklärt werden. Der aktuelle Stand steht in `docs/QUELLEN-UND-LIZENZEN.md`.
+Die neue Materialaufnahme und die neuen Versuchs-GIFs stammen von Martin Amberg, Smartfeld, und stehen unter CC BY 4.0. Die Teilchenmodell-GIFs stammen von Julio Miguel A Enriquez und Monica Muño. Der aktuelle Stand steht in `docs/QUELLEN-UND-LIZENZEN.md`.

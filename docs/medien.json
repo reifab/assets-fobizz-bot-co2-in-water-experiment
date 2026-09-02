@@ -2,6 +2,8 @@
   "experiment": "Löslichkeit von CO₂ in Wasser",
   "sprache": "de-CH",
   "hinweis": "Die Bilder und Animationen unterstützen den Materialcheck, die Versuchsdurchführung, die pH-Messung und die Erklärung mit dem Teilchenmodell. Das Arretieren mit einem Nagel darf nur in einer von der Lehrperson freigegebenen Anordnung gezeigt werden.",
+  "technische_aufbereitung": "Die neuen Fotos wurden proportional auf höchstens 300 × 200 Pixel verkleinert. Die neuen Animationen wurden aus Videos als GIF aufbereitet, in Bildgrösse und Bildrate reduziert und um eine schwarze Pause von ungefähr 1,2 Sekunden vor dem Neustart ergänzt.",
+  "namensnennung": "Neue Fotoaufnahme und neue Versuchs-GIFs: Martin Amberg, Smartfeld, CC BY 4.0. Für ältere Medien gelten die jeweiligen Einzelangaben.",
   "rechte_hinweis": "Urheber und Lizenzen sind für mehrere Projektmedien noch nicht vollständig dokumentiert. Details stehen in QUELLEN-UND-LIZENZEN.md.",
   "medien": [
     {
@@ -87,6 +89,102 @@
       "lizenz": "Nicht dokumentiert",
       "lizenz_url": null,
       "quelle": "Bisherige Angabe in README.md"
+    },
+    {
+      "id": "material-spritze-becherglas-stopfen-nagel",
+      "datei": "medien/material-spritze-becherglas-stopfen-nagel.png",
+      "titel": "Material für den Spritzenversuch",
+      "typ": "Foto",
+      "alt": "Eine 60-ml-Kunststoffspritze, ein Becherglas mit Wasser, ein blauer Blindstopfen und ein Nagel liegen auf einer Arbeitsfläche",
+      "bot_einsatz": "Materialcheck für den Versuch zur Löslichkeit von CO₂ in Wasser.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "mineralwasser-auffuellen",
+      "datei": "medien/mineralwasser-auffuellen.gif",
+      "titel": "Kohlesäurehaltiges Mineralwasser einfüllen",
+      "typ": "Animiertes GIF",
+      "alt": "Kohlesäurehaltiges Mineralwasser wird in ein Becherglas gegossen",
+      "bot_einsatz": "Vorbereitung der Wasserprobe mit gelöstem CO₂.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "spritze-aufziehen",
+      "datei": "medien/spritze-aufziehen.gif",
+      "titel": "Wasser mit der Spritze aufziehen",
+      "typ": "Animiertes GIF",
+      "alt": "Eine Kunststoffspritze wird mit der Öffnung nach unten in Wasser gehalten und durch Hochziehen des Stempels gefüllt",
+      "bot_einsatz": "Anleitung zum Aufziehen der Wasserprobe in die Spritze.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "spritze-luft-entfernen",
+      "datei": "medien/spritze-luft-entfernen.gif",
+      "titel": "Überschüssige Luft aus der Spritze entfernen",
+      "typ": "Animiertes GIF",
+      "alt": "Eine aufrecht gehaltene Kunststoffspritze wird bis zur gewünschten Markierung gedrückt, um überschüssige Luft zu entfernen",
+      "bot_einsatz": "Vorbereitung eines definierten Wasser- und Gasvolumens in der Spritze.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "spritze-verschliessen-blindstopfen",
+      "datei": "medien/spritze-verschliessen-blindstopfen.gif",
+      "titel": "Spritze mit dem Blindstopfen verschliessen",
+      "typ": "Animiertes GIF",
+      "alt": "Ein blauer Blindstopfen wird auf die Öffnung einer mit Wasser gefüllten Kunststoffspritze gesetzt",
+      "bot_einsatz": "Anleitung zum gasdichten Verschliessen der vorbereiteten Spritze.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "spritze-komprimieren-vakuumieren-blindstopfen",
+      "datei": "medien/spritze-komprimieren-vakuumieren-blindstopfen.gif",
+      "titel": "Spritze komprimieren und auseinanderziehen",
+      "typ": "Animiertes GIF",
+      "alt": "Eine verschlossene Kunststoffspritze mit Wasser und Gas wird abwechselnd zusammengedrückt und auseinandergezogen",
+      "bot_einsatz": "Durchführung zur Beobachtung des Einflusses von Druck auf gelöstes CO₂.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "spritze-komprimieren-vakuumieren-nahaufnahme",
+      "datei": "medien/spritze-komprimieren-vakuumieren-blindstopfen-nahaufnahme.gif",
+      "titel": "Gasblasen in der Spritze beobachten",
+      "typ": "Animiertes GIF",
+      "alt": "Nahaufnahme einer verschlossenen Kunststoffspritze, in der sich beim Verändern des Drucks sichtbare Gasblasen bilden und verändern",
+      "bot_einsatz": "Nahaufnahme für die genaue Beobachtung der Gasblasen bei verändertem Druck.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "wasser-auffuellen-becherglas",
+      "datei": "medien/wasser-auffuellen-becherglas.gif",
+      "titel": "Becherglas mit Wasser füllen",
+      "typ": "Animiertes GIF",
+      "alt": "Ein Becherglas wird unter einem Wasserhahn mit Wasser gefüllt",
+      "bot_einsatz": "Vorbereitung der Wasserprobe für den Spritzenversuch.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
 }
