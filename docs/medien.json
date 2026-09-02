@@ -69,14 +69,14 @@
     {
       "id": "modell-teilchen-fluessigkeit",
       "datei": "medien/Gif_-AtomosLiquid_03.gif",
-      "titel": "Teilchenmodell einer Flüssigkeit",
+      "titel": "Teilchenmodell einer nicht komprimierbaren Flüssigkeit",
       "typ": "Animiertes GIF",
-      "alt": "Blau dargestellte Flüssigkeitsteilchen liegen dicht beieinander und bewegen sich im unteren Bereich eines Behälters",
-      "bot_einsatz": "Erklärung, warum Wasser unter den Versuchsbedingungen nahezu nicht komprimierbar ist.",
-      "urheber": "Julio Miguel A Enriquez und Monica Muñoz",
+      "alt": "Ein kreisförmiger Behälter ist vollständig mit dicht beieinanderliegenden blauen Flüssigkeitsteilchen gefüllt, die sich leicht bewegen",
+      "bot_einsatz": "Erklärung, warum Wasser unter den Versuchsbedingungen nahezu nicht komprimierbar ist: Zwischen den dicht angeordneten Teilchen bleibt kein grosser Leerraum.",
+      "urheber": "Ausgangsgrafik: Julio Miguel A Enriquez und Monica Muñoz; Neugestaltung und Animation: Smartfeld mit OpenAI",
       "lizenz": "Nicht dokumentiert",
       "lizenz_url": null,
-      "quelle": "Bisherige Angabe in README.md"
+      "quelle": "KI-gestützte Neufassung der bisherigen Grafik; Kreisfläche vollständig mit Flüssigkeitsteilchen gefüllt; Animation technisch mit FFmpeg erstellt"
     },
     {
       "id": "modell-teilchen-feststoff",

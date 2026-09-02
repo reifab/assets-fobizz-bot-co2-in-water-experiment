@@ -23,4 +23,4 @@ Die neuen Bilder und animierten GIFs passen bei unverändertem Seitenverhältnis
 
 ## Quellen und Rechte
 
-Die neue Materialaufnahme und die neuen Versuchs-GIFs stammen von Martin Amberg, Smartfeld, und stehen unter CC BY 4.0. Die Teilchenmodell-GIFs stammen von Julio Miguel A Enriquez und Monica Muño. Der aktuelle Stand steht in `docs/QUELLEN-UND-LIZENZEN.md`.
+Die neue Materialaufnahme und die neuen Versuchs-GIFs stammen von Martin Amberg, Smartfeld, und stehen unter CC BY 4.0. Die Ausgangsfassungen der Teilchenmodell-GIFs stammen von Julio Miguel A Enriquez und Monica Muñoz. Das Flüssigkeitsmodell wurde durch Smartfeld mit OpenAI neu gestaltet und technisch animiert; sein bisher nicht dokumentierter Lizenzstatus bleibt unverändert. Der aktuelle Stand steht in `docs/QUELLEN-UND-LIZENZEN.md`.

@@ -9,7 +9,7 @@ Stand: 2. September 2026.
 | `Spritze-arretieren.gif` | Smartfeld; aus dem Projektvideo `Spritze arretieren_1080p.mp4` erstellt | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `Indikatorstaebchen-small.png` | Smartfeld; technisch verkleinerte PNG-Fassung des Projektfotos `Indikatorstaebchen.jpg` | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `Gif_-AtomosGas_02.gif` | Julio Miguel A Enriquez und Monica Muñoz, gemäss bisheriger `README.md` | Nicht dokumentiert |
-| `Gif_-AtomosLiquid_03.gif` | Julio Miguel A Enriquez und Monica Muñoz, gemäss bisheriger `README.md` | Nicht dokumentiert |
+| `Gif_-AtomosLiquid_03.gif` | Ausgangsgrafik: Julio Miguel A Enriquez und Monica Muñoz, gemäss bisheriger `README.md`; Neugestaltung und Animation: Smartfeld mit OpenAI | Nicht dokumentiert |
 | `Gif_-AtomosSolido_01.gif` | Julio Miguel A Enriquez und Monica Muñoz, gemäss bisheriger `README.md` | Nicht dokumentiert |
 | `material-spritze-becherglas-stopfen-nagel.png` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `mineralwasser-auffuellen.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
@@ -28,6 +28,8 @@ Stand: 2. September 2026.
 ## Technische Bearbeitung der neuen Medien
 
 Die neuen Fotos wurden proportional verkleinert und als PNG für die Webnutzung aufbereitet. Die neuen Animationen wurden aus Videoaufnahmen als GIF erstellt, proportional auf höchstens 300 × 200 Pixel verkleinert, mit reduzierter Bildrate optimiert und vor dem Neustart um eine schwarze Pause von ungefähr einer Sekunde ergänzt. Bei einer Weitergabe der bearbeiteten Fassungen sind diese Änderungen zusammen mit der Namensnennung anzugeben.
+
+`Gif_-AtomosLiquid_03.gif` wurde auf Grundlage der bisherigen Darstellung KI-gestützt neu gestaltet. Im Unterschied zur Ausgangsgrafik ist die gesamte Kreisfläche mit dicht angeordneten Flüssigkeitsteilchen gefüllt. Die ruhige, nahtlose Bewegung wurde anschliessend technisch mit FFmpeg erzeugt. Die Animation umfasst 50 Einzelbilder bei 25 Bildern pro Sekunde.
 
 ## Empfohlene Namensnennung für die Smartfeld-Assets
 
