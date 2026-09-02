@@ -185,6 +185,66 @@
       "organisation": "Smartfeld",
       "lizenz": "CC BY 4.0",
       "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "ph-messung-material",
+      "datei": "medien/ph-messung-material.png",
+      "titel": "Material für die pH-Messung",
+      "typ": "Bild",
+      "alt": "Kohlesäurehaltiges Mineralwasser, zwei Petrischalen, ein Becherglas, Indikatorstäbchen und eine pH-Farbskala liegen für die Messung bereit",
+      "bot_einsatz": "Materialcheck für den Vergleich des pH-Werts von Wasser mit und ohne Kohlensäure.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "ph-messung-durchfuehrung",
+      "datei": "medien/ph-messung-durchfuehrung.gif",
+      "titel": "pH-Messung durchführen",
+      "typ": "Animiertes GIF",
+      "alt": "Wasserproben werden in zwei Petrischalen gefüllt und mit Indikatorstäbchen auf ihren pH-Wert untersucht",
+      "bot_einsatz": "Schrittweise Anleitung zur pH-Messung der beiden Wasserproben.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "ph-indikatoren-in-petrischale",
+      "datei": "medien/ph-indikatoren-in-petrischale.gif",
+      "titel": "Indikatorstäbchen vergleichen",
+      "typ": "Animiertes GIF",
+      "alt": "Zwei Indikatorstäbchen liegen in Petrischalen und zeigen unterschiedliche Farben der Messfelder",
+      "bot_einsatz": "Beobachtung und Vergleich der Farbreaktionen nach der pH-Messung.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "ph-indikatoren-petrischalen-vergleich",
+      "datei": "medien/ph-indikatoren-petrischalen-vergleich.png",
+      "titel": "Indikatorstäbchen in den Petrischalen",
+      "typ": "Bild",
+      "alt": "Zwei Petrischalen mit Indikatorstäbchen; ein Messfeld ist dunkelgrün und das andere gelbgrün gefärbt",
+      "bot_einsatz": "Standbild zum Vergleichen und Beschreiben der beiden Farbreaktionen.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
+    },
+    {
+      "id": "ph-indikatoren-ph5-ph6-vergleich",
+      "datei": "medien/ph-indikatoren-ph5-ph6-vergleich.png",
+      "titel": "pH 5 und pH 6 vergleichen",
+      "typ": "Bild",
+      "alt": "Zwei unterschiedlich gefärbte Messfelder von Indikatorstäbchen liegen neben der zugehörigen pH-Farbskala",
+      "bot_einsatz": "Auswertungshilfe zum Zuordnen und Vergleichen der pH-Werte 5 und 6.",
+      "urheber": "Martin Amberg",
+      "organisation": "Smartfeld",
+      "lizenz": "CC BY 4.0",
+      "lizenz_url": "https://creativecommons.org/licenses/by/4.0/"
     }
   ]
 }

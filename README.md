@@ -1,6 +1,6 @@
 # Assets für den Fobizz-Bot „Löslichkeit von CO₂ in Wasser“
 
-Dieses Repository enthält Medien für einen Lernbot zum Experiment „Löslichkeit von CO₂ in Wasser“, einschliesslich weboptimierter Schritt-für-Schritt-Animationen für den Spritzenversuch.
+Dieses Repository enthält Medien für einen Lernbot zum Experiment „Löslichkeit von CO₂ in Wasser“, einschliesslich weboptimierter Schritt-für-Schritt-Animationen für den Spritzenversuch und die pH-Messung.
 
 - `docs/index.html`: Medienkatalog für GitHub Pages mit kopierbaren Bot-URLs
 - `docs/medien/`: Bilder und animierte GIF-Dateien

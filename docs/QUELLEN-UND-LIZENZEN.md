@@ -19,13 +19,19 @@ Stand: 2. September 2026.
 | `spritze-komprimieren-vakuumieren-blindstopfen.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `spritze-komprimieren-vakuumieren-blindstopfen-nahaufnahme.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 | `wasser-auffuellen-becherglas.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `ph-messung-material.png` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `ph-messung-durchfuehrung.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `ph-indikatoren-in-petrischale.gif` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `ph-indikatoren-petrischalen-vergleich.png` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
+| `ph-indikatoren-ph5-ph6-vergleich.png` | Martin Amberg, Smartfeld | [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) |
 
 ## Technische Bearbeitung der neuen Medien
 
-Das neue Foto wurde proportional verkleinert und als PNG für die Webnutzung aufbereitet. Die sieben neuen Animationen wurden aus Videoaufnahmen als GIF erstellt, proportional auf höchstens 300 × 200 Pixel verkleinert, mit reduzierter Bildrate optimiert und vor dem Neustart um eine schwarze Pause von ungefähr 1,2 Sekunden ergänzt. Bei einer Weitergabe der bearbeiteten Fassungen sind diese Änderungen zusammen mit der Namensnennung anzugeben.
+Die neuen Fotos wurden proportional verkleinert und als PNG für die Webnutzung aufbereitet. Die neuen Animationen wurden aus Videoaufnahmen als GIF erstellt, proportional auf höchstens 300 × 200 Pixel verkleinert, mit reduzierter Bildrate optimiert und vor dem Neustart um eine schwarze Pause von ungefähr einer Sekunde ergänzt. Bei einer Weitergabe der bearbeiteten Fassungen sind diese Änderungen zusammen mit der Namensnennung anzugeben.
 
 ## Empfohlene Namensnennung für die Smartfeld-Assets
 
 - „Spritze optional arretieren“ – Smartfeld, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 - „pH-Messung mit Indikatorstäbchen“ – Smartfeld, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-- Neue Materialaufnahme und neue Versuchsanleitungen – Martin Amberg, Smartfeld, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- Materialaufnahme und Versuchsanleitungen – Martin Amberg, Smartfeld, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+- PH-Messung – Martin Amberg, Smartfeld, [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
